@@ -6,7 +6,7 @@
 ![Research](https://img.shields.io/badge/Research-Vulnerability%20Analysis-purple?style=for-the-badge)
 ![License](https://img.shields.io/badge/Use-Ethical%20Only-red?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Security-Offensive%20%28Authorized%29-blue?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-Python%20%7C%20Bash%20%7C%20C-orange?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-Python%20%7C%20Lua%20%7C%20C++-orange?style=for-the-badge)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge)
 ![Quality](https://img.shields.io/badge/Quality-Research%20Grade-gold?style=for-the-badge)
 
