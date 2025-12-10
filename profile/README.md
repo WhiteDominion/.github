@@ -1,86 +1,101 @@
-# 🌑 WhiteDominion  
-### **Elite Cybersecurity Research • Ethical Exploit Development • Advanced Vulnerability Intelligence**
+# ███╗   ██╗ █████╗ ██╗████████╗███████╗██████╗ ██████╗  ██████╗ ███╗   ██╗
+# ████╗  ██║██╔══██╗██║╚══██╔══╝██╔════╝██╔══██╗██╔══██╗██╔═══██╗████╗  ██║
+# ██╔██╗ ██║███████║██║   ██║   █████╗  ██████╔╝██████╔╝██║   ██║██╔██╗ ██║
+# ██║╚██╗██║██╔══██║██║   ██║   ██╔══╝  ██╔══██╗██╔══██╗██║   ██║██║╚██╗██║
+# ██║ ╚████║██║  ██║██║   ██║   ███████╗██║  ██║██║  ██║╚██████╔╝██║ ╚████║
+# ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 
+# 🌑 WhiteDominion  
+### **Elite Cybersecurity Team • Ethical Exploit Development • Advanced Vulnerability Intelligence**
+
+![Team](https://img.shields.io/badge/Type-Team-black?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Exploit%20Development-black?style=for-the-badge)
-![Research](https://img.shields.io/badge/Research-Vulnerability%20Analysis-purple?style=for-the-badge)
-![License](https://img.shields.io/badge/Use-Ethical%20Only-red?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-Offensive%20%28Authorized%29-blue?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-Python%20%7C%20Lua%20%7C%20C++-orange?style=for-the-badge)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Exploit%20Development-purple?style=for-the-badge)
+![Research](https://img.shields.io/badge/Research-Vulnerability%20Analysis-blueviolet?style=for-the-badge)
+![Ethics](https://img.shields.io/badge/Use-Ethical%20Only-red?style=for-the-badge)
+![Security](https://img.shields.io/badge/Discipline-Offensive%20Security%20(Authorized)-blue?style=for-the-badge)
 ![Quality](https://img.shields.io/badge/Quality-Research%20Grade-gold?style=for-the-badge)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge)
+
+## 🔧 Programming Languages We Use
+![Python](https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge)
+![Lua](https://img.shields.io/badge/Lua-Advanced-blue?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-Advanced-lightgrey?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-Strong%20Skills-green?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-Strong%20Skills-orange?style=for-the-badge)
+![Multi-Lang](https://img.shields.io/badge/Codebase-Multilingual-red?style=for-the-badge)
+
+## 📦 Additional Professional Badges
+![Members](https://img.shields.io/badge/Team_Size-Private-black?style=for-the-badge)
+![Activity](https://img.shields.io/badge/Development-Continuous-brightgreen?style=for-the-badge)
+![Exploits](https://img.shields.io/badge/PoCs-Exploit%20Scripts-critical?style=for-the-badge)
+![ReverseEngineering](https://img.shields.io/badge/Field-Reverse%20Engineering-9cf?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-Security%20Tools-blue?style=for-the-badge)
+![Threat](https://img.shields.io/badge/Focus-Threat%20Analysis-important?style=for-the-badge)
+![Labs](https://img.shields.io/badge/Testing-Lab%20Environment%20Only-informational?style=for-the-badge)
 
 ---
 
-WhiteDominion is a distinguished cybersecurity research collective specializing in **high-precision vulnerability analysis, exploit development (PoC), and strategic offensive security research — strictly for defensive and educational purposes**.
+WhiteDominion is an elite **cybersecurity research team** specializing in advanced vulnerability analysis, exploit development (PoC), and technical offensive security research — **strictly for defensive and educational purposes**.
 
-We explore deep layers of modern systems, deconstruct complex vulnerabilities, and publish refined, research-grade exploit scripts designed to advance the technical understanding of the global security community.
+We deconstruct complex vulnerabilities, build precision exploit scripts, and push the boundaries of ethical cyber knowledge. Our work strengthens the global security ecosystem by transforming raw vulnerabilities into structured, technical insight.
 
 ---
 
 ## 🦂 Who We Are
-WhiteDominion operates at the frontier of ethical cyber research, focusing on:
+WhiteDominion focuses on:
 
-- Developing **Proof-of-Concept exploits** for learning and analysis  
-- Reverse engineering systems to uncover structural weaknesses  
-- Conducting advanced, authorized offensive research  
-- Publishing clean, technical PoCs for controlled environments  
-- Elevating vulnerability research standards with precision engineering  
+- Developing **clean, research-grade PoC exploits**  
+- Deep vulnerability analysis across diverse platforms  
+- Reverse engineering binaries, protocols, and system internals  
+- Authorized offensive security testing  
+- Crafting automation tools and scripted security workflows  
+- Publishing high-level exploit demonstrations for controlled labs  
 
-**Understanding vulnerabilities is the foundation of true security.**
+We stand on the principle:  
+**Knowledge of exploitation is the key to effective defense.**
 
 ---
 
-## ⚔️ Areas of Expertise
-- Advanced Vulnerability Research  
-- PoC & Exploit Development  
-- Reverse Engineering & Binary Analysis  
-- Authorized Offensive Security  
-- Security Automation & Exploit Testing  
-- Protocol & System Behavior Analysis  
-- Network, Web, and System-Level Exploit Mechanics  
+## ⚔️ Core Expertise
+- Proof-of-Concept exploit engineering  
+- Binary exploitation & memory corruption analysis  
+- RCE, LPE, and privilege escalation research  
+- Web exploitation & protocol manipulation  
+- Reverse engineering (assembly, binaries, systems)  
+- Automated exploit testing frameworks  
+- Security-focused scripting & tool development  
 
 ---
 
 ## 🛠️ What We Publish
-Research-grade materials including:
+WhiteDominion releases:
 
-- RCE / LPE / Privilege Escalation PoCs  
-- Web Application Exploits  
-- Analysis Utilities & Recon Tools  
-- Exploit Skeletons / Templates  
-- Automated Testing Scripts  
-- Educational exploitation demonstrations  
+- PoCs for modern vulnerabilities  
+- Exploit templates  
+- Analysis utilities  
+- Recon and scanning tools  
+- Demonstration scripts for research labs  
+- Advanced exploit behavior breakdowns  
 
-All content is crafted for **lab, research, and defensive purposes only**.
-
----
-
-## 🧠 Philosophy & Ethos
-WhiteDominion maintains an uncompromising commitment to ethical cybersecurity:
-
-- Research is strictly defensive and educational  
-- No malicious guidance or illegal activity  
-- All PoCs designed for safe, controlled environments  
-- Full adherence to ethical and global security standards  
-
-**We turn vulnerabilities into knowledge — not weapons.**
+All content is intended **only for education, testing, and defensive research**.
 
 ---
 
-## 📚 Research Vision
-Our work aims to:
+## 🧠 Team Philosophy
+We operate under a strict doctrine:
 
-- Illuminate hidden attack surfaces  
-- Decode systemic design flaws  
-- Strengthen real-world defenses  
-- Advance ethical exploit engineering  
-- Support the security research community with clarity and precision  
+- No malicious use  
+- No illegal activity  
+- Research only for defense and awareness  
+- Focus on accuracy, clarity, and technical depth  
+- Empower defenders by revealing real attack paths ethically  
 
 ---
 
-## ⚠️ Legal & Ethical Disclaimer
-All PoCs, scripts, and research content provided by WhiteDominion are intended **strictly for educational, defensive, and laboratory testing purposes only**. Any unauthorized or malicious use is prohibited and is not associated with WhiteDominion.
+## ⚠️ Legal Disclaimer
+All material released by WhiteDominion is intended **solely for educational, research, and controlled lab purposes**.  
+Any unauthorized or malicious use is strictly prohibited and does not reflect the values of the team.
 
 ---
 
