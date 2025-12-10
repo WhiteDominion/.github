@@ -16,15 +16,6 @@
 ![C++](https://img.shields.io/badge/C++-Advanced-lightgrey?style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-Strong%20Skills-green?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Strong%20Skills-orange?style=for-the-badge)
-![Multi-Lang](https://img.shields.io/badge/Codebase-Multilingual-red?style=for-the-badge)
-
-![Members](https://img.shields.io/badge/Team_Size-Private-black?style=for-the-badge)
-![Activity](https://img.shields.io/badge/Development-Continuous-brightgreen?style=for-the-badge)
-![Exploits](https://img.shields.io/badge/PoCs-Exploit%20Scripts-critical?style=for-the-badge)
-![ReverseEngineering](https://img.shields.io/badge/Field-Reverse%20Engineering-9cf?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-Security%20Tools-blue?style=for-the-badge)
-![Threat](https://img.shields.io/badge/Focus-Threat%20Analysis-important?style=for-the-badge)
-![Labs](https://img.shields.io/badge/Testing-Lab%20Environment%20Only-informational?style=for-the-badge)
 
 ---
 
