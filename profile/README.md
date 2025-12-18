@@ -12,8 +12,8 @@
 
 ## 🔧 Programming Languages We Use
 ![Python](https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge)
-![Lua](https://img.shields.io/badge/Lua-Advanced-blue?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-Advanced-lightgrey?style=for-the-badge)
+![Lua](https://img.shields.io/badge/Lua-Expert-blue?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-Expert-lightgrey?style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-Strong%20Skills-green?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Strong%20Skills-orange?style=for-the-badge)
 
